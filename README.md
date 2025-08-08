@@ -24,7 +24,7 @@ A simple desktop GUI Tic Tac Toe game implemented in **Java** using **Swing**. P
 
 1. Ensure Java JDK 8 or higher is installed on your system.
 2. Clone the repository or download the source code.
-3. Then open `TicTacToeApp.java` in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
+3. Then open TicTacToeApp.java in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
 4. Run the file. 
  
 
