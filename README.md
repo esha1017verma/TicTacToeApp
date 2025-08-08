@@ -1,4 +1,3 @@
-# TicTacToeApp
 # Tic-Tac-Toe
 
 A simple desktop GUI Tic Tac Toe game implemented in **Java** using **Swing**. Play against a friend and enjoy the classic game on your system!
